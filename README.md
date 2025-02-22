@@ -30,6 +30,9 @@ How it works:
             
 Example Usage:
 ```
+pip install requests
+```
+```
 python3 dummy_traffic.py http://example.com 100 1
 ```
 This command would send 100 requests to http://example.com, with a delay of 1 second between each request.
