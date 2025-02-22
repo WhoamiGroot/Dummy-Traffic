@@ -1,5 +1,7 @@
 This script generates simulated web traffic for a target URL by making random GET and POST requests. It also uses multiple threads to simulate many users, which can be useful for load testing or stress testing purposes.
 
+![dummy](https://github.com/user-attachments/assets/4cb6e0ac-7c47-4d4d-9052-33eb65a1b914)
+
 Here’s an overview of the key components:
 Key Components:
 
